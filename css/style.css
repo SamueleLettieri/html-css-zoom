@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    text-align:end;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    z-index: 1;
+}
+
+.bottone{
+    background-color: gray;
+    color: white;
+    padding: 8px;
+    border-radius: 5px 5px;
+}
+
